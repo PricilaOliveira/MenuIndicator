@@ -9,4 +9,6 @@ Menu Indicator💜
 
 </div>
 
-Desenvolvido por <b>Rafaella Ballerini</b> estudado e reproduzido por <b>Pricila Oliveira</b> 💌
+<div align="center">
+<b>Pricila Oliveira</b> 💌
+</div>
